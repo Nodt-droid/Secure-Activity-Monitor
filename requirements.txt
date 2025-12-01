@@ -1,0 +1,4 @@
+pynput
+pycryptodome
+psutil
+pywin32 ; platform_system == "Windows"

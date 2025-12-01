@@ -66,3 +66,11 @@ All monitoring is transparent, visible, and safe.
 [2025-01-20 18:22:43] [COPY] User pressed CTRL+C | Window: Chrome
 [2025-01-20 18:22:45] [MOUSE CLICK] Button.left at (822,511)
 [2025-01-20 18:22:47] [SCROLL] (0,-1) at (901,320)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/Secure-Activity-Monitor
+cd Secure-Activity-Monitor
+pip install -r requirements.txt
+python monitor.py
